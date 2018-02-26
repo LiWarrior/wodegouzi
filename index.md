@@ -1,4 +1,4 @@
-c<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,6 +11,6 @@ c<!DOCTYPE html>
 <h1>吗</h1>
 <p>hhhhh嗝</p>
 <p>(〃'▽'〃)</p>
-<img srs="2016-06-05 165144.jpg">
+<img src="2016-06-05 165144.jpg">
 </body>
 </html>
